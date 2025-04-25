@@ -2,7 +2,7 @@
 ############# Creating Nitrogen Budgets in Wetland plots ######################
 ###############################################################################
 
-# Written by: Pearl Ruston and Sarah Herbert 
+# Written by: Pearl Ruston and Sarah H******
 # Written for R version 4.3.1
 # Contact email: pearl.ruston@vuw.ac.nz
 
